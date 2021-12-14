@@ -10,9 +10,7 @@ h1 {
     color: #175242;
 }
 
-h3,
-h4,
-p {
+h3 {
     font-family: arbotek, sans-serif;
     font-weight: 300;
     font-style: normal;
