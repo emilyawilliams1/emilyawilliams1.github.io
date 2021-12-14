@@ -3,7 +3,7 @@ body {
 }
 
 p {
-	font-size: 16px;
+	font-size: 17px;
 }
 
 h1,
@@ -30,13 +30,23 @@ p {
     font-family: arboria, sans-serif;
     font-weight: 400;
     font-style: normal;
-}
+   }
 
 h4 {
     font-family: arboria, sans-serif;
     font-weight: 700;
     font-style: normal;
     color: #C87E5D;
+    font-size: 25px;
+}
+
+.social {
+    color: #175242;
+    text-decoration: underline solid;
+    text-decoration-color: #E8CEBF;
+    font-style: italic;
+    size: 17px;
+    padding: 2%;
 }
 
 /* media queries */
