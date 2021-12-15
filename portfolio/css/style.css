@@ -47,6 +47,7 @@ h4 {
     font-style: italic;
     size: 17px;
     padding: 2%;
+    align-content: center;
 }
 
 /* media queries */
