@@ -2,6 +2,11 @@ body {
     background-color: #F6EFE7;
 }
 
+.resume h3 {
+	font-size: 20px;
+	text-align: left;
+}
+
 p {
 	font-size: 17px;
 }
@@ -45,7 +50,6 @@ h4 {
     text-decoration: underline solid;
     text-decoration-color: #E8CEBF;
     font-style: italic;
-    size: 17px;
     padding: 2%;
     align-content: center;
 }
@@ -62,8 +66,10 @@ h2 {
     font-weight: 700;
     font-style: normal;
     text-align: center;
+    border: #175242;
+    border-style: solid;
+    padding: 2%;
 }
-
 /* contact */
 
 /* media queries */
