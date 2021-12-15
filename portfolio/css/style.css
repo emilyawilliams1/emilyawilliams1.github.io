@@ -57,6 +57,12 @@ color: #175242;
 /* my work */
 
 /* resume */
+h2 {
+	 font-family: lust, serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
 
 /* contact */
 
