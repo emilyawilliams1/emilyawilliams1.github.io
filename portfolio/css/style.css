@@ -2,9 +2,11 @@ body {
     background-color: #F6EFE7;
 }
 
-.resume h3 {
-	font-size: 20px;
+.resume {
+	font-size: 25px;
 	text-align: left;
+	padding: 0%;
+	text-decoration: underline;
 }
 
 p {
@@ -31,7 +33,8 @@ h3 {
 }
 
 h3,
-p {
+p,
+ul {
     font-family: arboria, sans-serif;
     font-weight: 400;
     font-style: normal;
