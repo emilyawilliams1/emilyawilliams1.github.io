@@ -2,11 +2,25 @@ body {
     background-color: #F6EFE7;
 }
 
+img {
+	padding-bottom: 3%;
+}
 .resume {
 	font-size: 25px;
 	text-align: left;
 	padding: 0%;
 	text-decoration: underline;
+}
+
+h1.work {
+	font-size: 35px;
+	text-align: left;
+}
+
+h3.work {
+	font-size: 25px;
+	text-align: left;
+	padding: 0%;
 }
 
 p {
@@ -48,6 +62,9 @@ h4 {
     font-size: 20px;
 }
 
+a {
+	color: #C87E5D;
+}
 .social {
     color: #175242;
     text-decoration: underline solid;
