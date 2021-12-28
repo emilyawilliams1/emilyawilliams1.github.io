@@ -2,6 +2,10 @@ body {
     background-color: #F6EFE7;
 }
 
+nav {
+	font-size: 20px;
+}
+
 img {
 	padding-bottom: 3%;
 }
